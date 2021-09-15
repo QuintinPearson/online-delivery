@@ -68,6 +68,9 @@ html {
   /* font-size: 10px; */
   font-size: 62.5%;
 
+  /* Does not work on safari and edge */
+  /* scroll-behavior: smooth; */
+
   /* overfolw x is set to hide the navigation menu */
   overflow-x: hidden;
 }
